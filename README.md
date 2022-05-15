@@ -1,6 +1,6 @@
 ### yo
 
-It's me. Scott. 🎅🏾
+It's me. Scott. 
 
 - I do Multiplayer/Network programming things at Xbox 🎮
 - Outside of work, I preoccupy myself with hobbyist gamedev stuff 👾

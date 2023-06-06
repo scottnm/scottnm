@@ -2,10 +2,11 @@ It's me. Scott. 🐸 ‍ 👨🏾‍🦲
 
 - I do Multiplayer/Network programming things at Xbox 🎮
 - Outside of work, I preoccupy myself toy programming projects and hobbyist gamedev 👾
-- I help run [the MGK game jam community](https://melanatedgamekitchen.itch.io/)
 - Homepage @ https://scottnm.com
 - Discord @ scottnm#5956
 - Xbox @ mantizord
+
+<!-- - I helped run [the MGK game jam community](https://melanatedgamekitchen.itch.io/). I don't help run it anymore but still worth checking out if you like game jams.  -->
 
 <!--
 **scottnm/scottnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

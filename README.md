@@ -3,7 +3,7 @@ It's me. Scott. 🐸 ‍ 👨🏾‍🦲
 - I do Multiplayer/Network programming things at Xbox 🎮
 - Outside of work, I preoccupy myself toy programming projects and hobbyist gamedev 👾
 - Homepage @ https://scottnm.com
-- Discord @ scottnm#5956
+- Discord @ scottnm
 - Xbox @ mantizord
 
 <!-- - I helped run [the MGK game jam community](https://melanatedgamekitchen.itch.io/). I don't help run it anymore but still worth checking out if you like game jams.  -->
